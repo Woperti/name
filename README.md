@@ -2,7 +2,7 @@
 
 Integrantes: 
 
-![diagrama de flujo 1]("./hey.jpeg")
+![diagrama de flujo 1](hey.jpeg)
 
 Diagrama de Flujo 
 
